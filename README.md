@@ -32,7 +32,7 @@
   - **Tier 3**: Consumer Court Filing via the unified **e-Jagriti** portal (`e-jagriti.gov.in`, formerly e-Daakhil) with zero court fee for claims up to ₹5 Lakhs.
 
 ### 4. 🛡️ AI Contract Risk Scanner
-- External module integration with [AI Contract Risk Scanner](https://ai-contract-risk-scanner.onrender.com/).
+- External module integration with [AI Contract Risk Scanner](https://github.com/Dynamo-SJoshi/AI-Contract-Risk-Scanner).
 - Scans lease, rental, and employment agreements for hidden penalties, one-sided indemnities, and unfair termination terms.
 
 ### 5. 🌐 Multilingual Indian Languages Support
