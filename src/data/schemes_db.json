@@ -1,0 +1,158 @@
+[
+  {
+    "id": "startup-india-seed-fund",
+    "name": "Startup India Seed Fund Scheme (SISFS)",
+    "category": "Startup & Entrepreneurship",
+    "department": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "description": "Financial assistance to early-stage startups for proof of concept, prototype development, product trials, market entry, and commercialization.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 70,
+      "student_status": null,
+      "max_annual_income_inr": null,
+      "eligible_categories": ["SC", "ST", "OBC", "General", "EWS"],
+      "target_audience": "Entrepreneurs, Engineering Students, Innovators",
+      "applicable_states": ["All"]
+    },
+    "required_documents": [
+      "DPIIT Startup Recognition Certificate",
+      "Business Plan & Pitch Deck",
+      "Proof of Concept / Prototype Details",
+      "Bank Account & Entity Registration Proof"
+    ],
+    "official_portal_url": "https://seedfund.startupindia.gov.in"
+  },
+  {
+    "id": "pm-mudra-yojana",
+    "name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "category": "Business & Financial Loan",
+    "department": "Department of Financial Services",
+    "description": "Collateral-free micro-business loans up to Rs 10 Lakhs (Shishu up to Rs 50k, Kishore up to Rs 5L, Tarun up to Rs 10L) for non-corporate small enterprises and new startups.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 65,
+      "student_status": null,
+      "max_annual_income_inr": null,
+      "eligible_categories": ["SC", "ST", "OBC", "General", "BPL"],
+      "occupation": "Entrepreneur / Small Business",
+      "applicable_states": ["All"]
+    },
+    "required_documents": [
+      "MUDRA Loan Application Form",
+      "Business Proposal & Financial Estimates",
+      "Identity Proof (Voter ID/Aadhaar/Passport)",
+      "Bank Statement for last 6 months"
+    ],
+    "official_portal_url": "https://www.mudra.org.in"
+  },
+  {
+    "id": "pms-post-matric",
+    "name": "Post-Matric Scholarship for SC/ST/OBC Students",
+    "category": "Education",
+    "department": "Ministry of Social Justice and Empowerment",
+    "description": "Financial assistance for post-matriculation or post-secondary stages to enable eligible students from low-income families to complete their education.",
+    "eligibility": {
+      "min_age": 16,
+      "max_age": 35,
+      "student_status": true,
+      "max_annual_income_inr": 250000,
+      "eligible_categories": ["SC", "ST", "OBC", "EWS"],
+      "applicable_states": ["All"]
+    },
+    "required_documents": [
+      "Caste/Category Certificate",
+      "Income Certificate issued by competent authority (< Rs 2.5L/yr)",
+      "Previous Year Marksheet",
+      "College Fee Receipt & Student ID",
+      "Bank Account Passbook Copy"
+    ],
+    "official_portal_url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "pmjay-ayushman",
+    "name": "Ayushman Bharat PM-JAY",
+    "category": "Healthcare",
+    "department": "National Health Authority",
+    "description": "Provides health insurance cover up to Rs 5 lakh per family per year for secondary and tertiary care hospitalization.",
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 100,
+      "student_status": null,
+      "max_annual_income_inr": 180000,
+      "eligible_categories": ["SC", "ST", "OBC", "General", "BPL"],
+      "applicable_states": ["All"]
+    },
+    "required_documents": [
+      "Ration Card / SECC 2011 proof",
+      "Income Certificate / BPL Certificate",
+      "Government Photo ID (Voter ID/Driving License/Passport)"
+    ],
+    "official_portal_url": "https://nha.gov.in"
+  },
+  {
+    "id": "pm-kisan",
+    "name": "PM Kisan Samman Nidhi",
+    "category": "Agriculture & Livelihood",
+    "department": "Ministry of Agriculture and Farmers Welfare",
+    "description": "Income support of Rs 6,000 per year in three equal installments to small and marginal landholding farmer families.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 100,
+      "student_status": false,
+      "max_annual_income_inr": null,
+      "eligible_categories": ["All"],
+      "occupation": "Farmer / Landholder",
+      "applicable_states": ["All"]
+    },
+    "required_documents": [
+      "Land Ownership Records (Khata/Khatoni)",
+      "Bank Account Details with IFSC code",
+      "Citizen ID Proof"
+    ],
+    "official_portal_url": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "pm-svanidhi",
+    "name": "PM SVANidhi (Street Vendor Loan)",
+    "category": "Livelihood & Business",
+    "department": "Ministry of Housing and Urban Affairs",
+    "description": "Collateral-free working capital loan up to Rs 10,000 to street vendors to resume their businesses.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 65,
+      "student_status": false,
+      "max_annual_income_inr": 300000,
+      "eligible_categories": ["SC", "ST", "OBC", "General", "BPL"],
+      "occupation": "Street Vendor / Small Trader",
+      "applicable_states": ["All"]
+    },
+    "required_documents": [
+      "Certificate of Vending / Urban Local Body ID",
+      "Aadhaar Card linked Bank Account",
+      "Voter ID / Driving License"
+    ],
+    "official_portal_url": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "category": "Child Welfare & Savings",
+    "department": "Department of Posts / Ministry of Finance",
+    "description": "Small deposit savings scheme targeted for girl child education and marriage with high interest rates and tax exemptions.",
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 10,
+      "student_status": null,
+      "max_annual_income_inr": null,
+      "eligible_categories": ["All"],
+      "target_gender": "Female",
+      "applicable_states": ["All"]
+    },
+    "required_documents": [
+      "Girl Child Birth Certificate",
+      "Parent / Guardian Photo ID Proof",
+      "Address Proof & Passport Photograph"
+    ],
+    "official_portal_url": "https://www.indiapost.gov.in"
+  }
+]
