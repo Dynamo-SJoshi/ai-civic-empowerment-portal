@@ -3,7 +3,7 @@
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_3.0-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20TailwindCSS-00D8FF)](https://reactjs.org/)
 [![Gemini AI](https://img.shields.io/badge/AI-Gemini%203.6%20Flash-8E75FF)](https://ai.google.dev/)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25%20Client--Side-emerald)](https://github.com/)
+[![Privacy](https://img.shields.io/badge/Architecture-Zero%20Backend-emerald)](https://github.com/)
 
 **Rights Navigator** is an open-source, AI-assisted civic transparency & legal tech portal for India. It empowers citizens to exercise statutory rights under the Right to Information Act 2005, discover welfare scheme eligibility, generate formal pre-litigation consumer notices (Consumer Protection Act 2019 / e-Jagriti), and analyze contract risks without lawyer fees or bureaucratic complexity.
 
@@ -44,7 +44,7 @@
 
 - **6-Key API Failover Stack**: Sequential key pool (`VITE_GEMINI_API_KEY_1` to `6`) with automatic failover on rate limits (`429`), permission errors (`403/400`), or model deprecations (`404`).
 - **10-Second AbortController Timeout**: Prevents UI freezing by timing out hanging requests and escalating to the next key or offline engine.
-- **100% Client-Side Privacy**: Runs completely inside the user's browser. Zero storage, logging, or transmission of personal data to external servers.
+- **Zero-Backend Privacy Architecture**: Runs without any intermediate backend servers or databases. Prompt requests are sent directly from the browser to Google Gemini API over encrypted HTTPS for stateless inference, ensuring your personal inputs are never stored or logged on our infrastructure.
 
 ---
 
