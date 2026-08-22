@@ -1,6 +1,6 @@
 # 🏛️ Rights Navigator — Civic Empowerment & Legal Tech Suite
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_3.0-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20TailwindCSS-00D8FF)](https://reactjs.org/)
 [![Gemini AI](https://img.shields.io/badge/AI-Gemini%203.6%20Flash-8E75FF)](https://ai.google.dev/)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Client--Side-emerald)](https://github.com/)
@@ -86,4 +86,4 @@ VITE_GEMINI_API_KEY_6=your_gemini_api_key_6
 ---
 
 ## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU Affero General Public License v3.0 (AGPL-3.0). See [LICENSE](LICENSE) for more information.
