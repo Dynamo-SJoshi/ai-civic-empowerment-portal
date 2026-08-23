@@ -179,8 +179,7 @@ export const RightsNavigator = ({ onBackToDashboard }) => {
                 </>
               ) : (
                 <>
-                  <Mic className="w-4 h-4" />
-                  <span>🎤 Voice Input</span>
+                  <span>🎙️ Voice Input</span>
                 </>
               )}
             </button>

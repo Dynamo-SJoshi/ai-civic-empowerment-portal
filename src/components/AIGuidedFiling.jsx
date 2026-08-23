@@ -265,8 +265,7 @@ export const AIGuidedFiling = ({ onBackToDashboard }) => {
                 </>
               ) : (
                 <>
-                  <Mic className="w-4 h-4" />
-                  <span>🎤 Speak to Explain</span>
+                  <span>🎙️ Speak to Explain</span>
                 </>
               )}
             </button>

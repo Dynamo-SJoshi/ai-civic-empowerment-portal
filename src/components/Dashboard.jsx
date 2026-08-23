@@ -45,7 +45,7 @@ export const Dashboard = ({ onSelectRTI, onSelectSchemeReader, onSelectConsumerR
             <div className="mt-4 pt-4 border-t border-slate-100 space-y-1.5 text-[11px] text-slate-500">
               <div className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-blue-500 shrink-0"></span>
-                🎤 Native Speech-to-Text
+                🎙️ Native Speech-to-Text
               </div>
               <div className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-blue-500 shrink-0"></span>
@@ -92,7 +92,7 @@ export const Dashboard = ({ onSelectRTI, onSelectSchemeReader, onSelectConsumerR
             <div className="mt-4 pt-4 border-t border-slate-100 space-y-1.5 text-[11px] text-slate-500">
               <div className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 shrink-0"></span>
-                🎤 Voice input & profile tags
+                🎙️ Voice input & profile tags
               </div>
               <div className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 shrink-0"></span>
@@ -140,7 +140,7 @@ export const Dashboard = ({ onSelectRTI, onSelectSchemeReader, onSelectConsumerR
             <div className="mt-4 pt-4 border-t border-slate-100 space-y-1.5 text-[11px] text-slate-500">
               <div className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-amber-500 shrink-0"></span>
-                🎤 Voice input & category chips
+                🎙️ Voice input & category chips
               </div>
               <div className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-amber-500 shrink-0"></span>
